@@ -1,1 +1,1 @@
-The MTH498 report (1) and Johnson CenterMTH498 Presentation give an overview of the project.
+The MTH498 report (1) and Johnson CenterMTH498 Presentation give an overview of the project. Summer_Research contains Chloe Neu's summer research project for the Johnson Center, with k_means_clustering being the optimal method.
